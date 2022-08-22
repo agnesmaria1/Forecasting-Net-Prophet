@@ -1,6 +1,6 @@
 # Forecasting-Net-Prophet
 
-This Jupyter notebook analyzing the company's financial and user data and to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
+Time series analysis using Facebook Prophet.
 
 ---
 
